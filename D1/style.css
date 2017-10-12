@@ -13,6 +13,7 @@
 	border: 2px solid #333;
 	box-sizing: border-box;
 	border-radius: 6px;
+	transition: all .07s;
 }
 .key kbd{
 	display: block;
