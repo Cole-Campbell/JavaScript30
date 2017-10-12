@@ -1,0 +1,28 @@
+.keys{
+	position: relative;
+	text-align: center;
+	width: 80%;
+	padding-bottom: 20px;
+	margin: 0px auto;
+}
+
+.key{
+	width: 6%;
+	margin: 2.5555555%;
+	float: left;
+	border: 2px solid #333;
+	box-sizing: border-box;
+	border-radius: 6px;
+}
+.key kbd{
+	display: block;
+	font-family: helvetica;
+	margin-bottom: 10px;
+}
+.key span{
+	font-family: arial;
+}
+.playing{
+	border-color: #dfdf5a;
+	transform: scale(1.1);
+}
